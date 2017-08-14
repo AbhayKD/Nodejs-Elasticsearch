@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is example assignment",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^13.3.1",
+    "get-json": "0.0.3",
+    "in-n-out": "0.0.14",
+    "localStorage": "^1.0.3",
+    "mqtt": "^2.11.0",
+    "node-async-loop": "^1.2.2"
+  }
+}
